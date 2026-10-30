@@ -2,7 +2,7 @@
 title: The first day of a new semester (students)
 author: Ryan Deaton
 date: 2025-12-08
-status: draft
+status: final
 ---
 
 *As a new semester begins*
@@ -15,15 +15,13 @@ status: draft
 > 
 > Perfect Glorious Creator
 > 
-> How Amazing are Your Deeds
+> How Amazing are Your Deeds that we may Delight in All of Your Works,
 >
-> We Delight in All of Your Works
+> For All You do is Just and Good.
 >
-> All You do is Just and Good
->
-> Please give us the sight to see all of Your Good and Wonderful Works
+> Please give us sight to see all of Your Good and Wonderful Works
 > 
-> Let us see Your Beauty revealed in,
+> grant us sight to see Your Beauty revealed in,
 > 
 > the Chemistry of Your creation to explore,
 > 
@@ -33,11 +31,11 @@ status: draft
 > 
 > the Literature written by Creation for Your Glory,
 > 
-> and all things You have put before us to study for Your Glory,
+> and all things You have put before us to study for Your Glory.
 > 
-> As we delight in you to ponder your great works.
+> As we delight in you to ponder your great works,
 > 
-> Please grant us the sight to see your Work in all of these things,
+> Please grant us the sight to see your Work in all of these things.
 >
 > Let us see your beauty in
 > 
@@ -51,7 +49,7 @@ status: draft
 > 
 > Our Joy in a group assignment,
 > 
-> Our Exaustion from a long night,
+> Our Exhaustion from a long night,
 >
 > As we delight in Glorifying you through our Endurance.
 >
@@ -61,11 +59,11 @@ status: draft
 > 
 > For not a hair may fall from our heads without the will of our Father in Heaven.
 >
-> For we know, that we belong to our Saviour Jesus Christ,
+> For we know, that we belong to our Savior Jesus Christ,
 > 
 > And that all things through our lives will be at the Lords will,
 > 
-> And that we belong to him, Christ, by his Holy Spirt,
+> And that we belong to him, Christ, by his Holy Spirit,
 > 
 > And are living our lives for the Glory of the Lord.
 >
